@@ -1,0 +1,22 @@
+{
+  "projects": [
+    {
+      "name": "OCR (Optical Character Recognition)Technologies: Python, PostgreSQL, AWS Textract, Boto3, StreamlitDuration: Feb 2023 - PresentResearched and implemented AWS Textract for automated rewards collection via document scanning and data processing. Developed Python scripts and utilized PostgreSQL for efficient data management and workflow automation.Enhanced system reliability and performance, ensuring accurate OCR data extraction for business processes."
+    },
+    {
+      "name": "Chatbot Interface for Data QueryingTechnologies: Python, Flask, AWS EC2, OpenAI GPT ModelsDuration: July 2023 - PresentLed the design and development of a chatbot interface to query multiple datasets, optimizing for contextual interactions using GPT-4.Implemented advanced NLP features, including chat history retrieval and a paraphrasing tool to improve user engagement.Deployed and maintained the application on AWS EC2, ensuring robust performance and scalability."
+    },
+    {
+      "name": "Route Optimization SystemTechnologies: Python, Folium, Open Route Service APIDuration: August 2023 - November 2023Engineered a hybrid optimization algorithm for the Traveling Salesman Problem using geospatial data.Developed a route visualization tool with Folium and integrated real-time data using Open Route Service API.Optimized algorithmic parameters to enhance route efficiency and system performance."
+    },
+    {
+      "name": "Clustering ModuleTechnologies: Machine Learning, Python, Pandas, FoliumDuration: August 2023 - November 2023Designed and implemented the HaversineClusterer for efficient geospatial coordinate clustering.Incorporated dynamic clustering algorithms and created visualizations to analyze spatial data.Configured data outputs to facilitate easy integration and manipulation within other applications."
+    },
+    {
+      "name": "Functional Web API WrapperTechnologies: Flask, Python, SQL Alchemy, Celery, Redis, RESTful APIsDuration: Jan 2023 - PresentBuilt a scalable Flask API framework as per client specifications to support dynamic microservices and RESTful API endpoints.Focused on flexible, lightweight microservice architecture for enhanced system adaptability and maintenance.Integrated SQL Alchemy for robust database interactions and management."
+    },
+    {
+      "name": "SQL Database Management Technologies: SQL, RDBMSDuration: Jan 2023 - Present Developed and maintained complex SQL database systems for optimized data storage, retrieval, and reporting.Authored and refined stored procedures to automate and streamline database operations.Implemented robust data extraction techniques, enhancing data analytics capabilities and business intelligence."
+    }
+  ]
+}
